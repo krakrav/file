@@ -1,4 +1,4 @@
 getgenv().gamelist = {
-    [16732694052] = '', -- Fisch
+    [16732694052] = 'https://raw.githubusercontent.com/krakrav/file/main/v1/44F82F98C33BD8FA1C28D8D4CAC7C', -- Fisch
     [537413528] = ''  -- Build a boat for treasure
 }
