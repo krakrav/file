@@ -1,8 +1,5 @@
-    if not v1_2431284B8A591E146E7A24498129FA4FCD4A1A34CA713FD6274342E1C2812FF5C8C9E35C6EC1A6695142C92CF52E23B278C2E1879D94828982A or false then
-        return game:GetService("Players").LocalPlayer:Kick("[ Somtum Hub ] : Invaild game, Unable to execute script")
-    end
 
-    getgenv().Game = {
-        [16732694052] = '', -- Fisch
-        [537413528] = ''  -- Build a boat for treasure
-    }
+getgenv().Game = {
+    [16732694052] = '', -- Fisch
+    [537413528] = ''  -- Build a boat for treasure
+}
