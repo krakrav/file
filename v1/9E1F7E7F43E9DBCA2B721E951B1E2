@@ -1,5 +1,4 @@
-
-getgenv().Game = {
+getgenv().gamelist = {
     [16732694052] = '', -- Fisch
     [537413528] = ''  -- Build a boat for treasure
 }
